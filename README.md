@@ -111,6 +111,12 @@ Total Loss = Age Loss + Gender Loss
 
 ---
 
+## 🖼️ Sample Results
+
+![Final Results](final_results.PNG)
+
+---
+
 ## 📁 Project Structure
 
 .
@@ -179,13 +185,4 @@ python test.py
 - PyTorch  
 - torchvision (ResNet50 pretrained models)  
 
----
 
-## 📬 Author
-
-Maryam Pirzadeh  
-Deep Learning & Computer Vision Enthusiast  
-
----
-
-⭐ If you find this project useful, consider giving it a star!
